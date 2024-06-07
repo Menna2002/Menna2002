@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- ✉ **How to reach me:** `mennasaed111@gmail.com`
+- ✉ **How to reach me:** mennasaed111@gmail.com
 
-- 📄 **Know about my experiences:** [CV Link](https://drive.google.com/file/d/1R2xhPMuaygVkCJHVCuXfgeHICyQ5o6g8/view)
+- 📄 **Know about my experiences:** [CV](https://drive.google.com/file/d/1R2xhPMuaygVkCJHVCuXfgeHICyQ5o6g8/view)
 
 ###
 
