@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Menna allah Saeed</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
 
-<img align="right" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4283b367578677.5b3e5c21edefc.gif"  />
+<img align="right" width='400' src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4283b367578677.5b3e5c21edefc.gif" />
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **Machine Learning, Data Science**
+- ✉ **How to reach me:** `mennasaed111@gmail.com`
 
-- 📫 How to reach me **mennasaed111@gmail.com**
+- 📄 **Know about my experiences:** [CV Link](https://drive.google.com/file/d/1R2xhPMuaygVkCJHVCuXfgeHICyQ5o6g8/view)
 
 ###
+
 ### 📈 Languages and Tools:
 [<img src="https://skillicons.dev/icons?i=html" alt="HTML5 logo" height="30">](https://skillicons.dev/icons?i=html) 
 [<img src="https://skillicons.dev/icons?i=css" alt="CSS3 logo" height="30">](https://skillicons.dev/icons?i=css)
@@ -31,6 +32,14 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda logo" height="30">](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg) 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter logo" height="30">](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg) 
 
+
+### 📫 Social :
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30">](https://twitter.com/mennasaed111) 
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30">](https://linkedin.com/in/menna2002) 
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30">](https://kaggle.com/mennaallahsaed) 
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30">](https://fb.com/100010387547953) 
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30">](https://instagram.com/mennasaed111)
+
 ###
 <p align="left">
   <a href="https://linkedin.com/in/menna2002" target="_blank">
@@ -39,25 +48,12 @@
 </p>
 
 ###
-
-### 📫 Social:
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30">](https://twitter.com/mennasaed111) 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30">](https://linkedin.com/in/menna2002) 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30">](https://kaggle.com/mennaallahsaed) 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30">](https://fb.com/100010387547953) 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30">](https://instagram.com/mennasaed111)
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Menna2002&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Menna2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
-
 <div align="center">
 <p> <img src="https://komarev.com/ghpvc/?username=menna2002&label=Profile%20views&color=0e75b6&style=flat" alt="menna2002" /> </p>
 </div>
-
-###
