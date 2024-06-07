@@ -3,7 +3,7 @@
 
 <img align="right" width='400' src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4283b367578677.5b3e5c21edefc.gif" />
 
-- 🌱 I’m currently learning **Laravel, OpenCV, Pytorch**
+- 🌱 I’m currently learning **Laravel, OpenCV, Pytorch, Power BI**
 
 - ✉ **How to reach me:** mennasaed111@gmail.com
 
