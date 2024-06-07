@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Menna allah Saeed</h1>
-<h3 align="center">A passionate data scientist from Egypt</h3>
+<h3 align="center">A passionate Data Scientist from Egypt</h3>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4283b367578677.5b3e5c21edefc.gif"  />
+
+- 🌱 I’m currently learning **Laravel**
+
+- 💬 Ask me about **Machine Learning, Data Science**
+
+- 📫 How to reach me **mennasaed111@gmail.com**
 
 ###
 ### 📈 Languages and Tools:
@@ -26,13 +32,20 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter logo" height="30">](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg) 
 
 ###
+<p align="left">
+  <a href="https://linkedin.com/in/menna2002" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</p>
 
-### 📫 How to reach me:
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" style="margin-right: 5px;">](https://twitter.com/mennasaed111) 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" style="margin-right: 5px;">](https://linkedin.com/in/menna2002) 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" style="margin-right: 5px;">](https://kaggle.com/mennaallahsaed) 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" style="margin-right: 5px;">](https://fb.com/100010387547953) 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" style="margin-right: 5px;">](https://instagram.com/mennasaed111)
+###
+
+### 📫 Social:
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30">](https://twitter.com/mennasaed111) 
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30">](https://linkedin.com/in/menna2002) 
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30">](https://kaggle.com/mennaallahsaed) 
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30">](https://fb.com/100010387547953) 
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30">](https://instagram.com/mennasaed111)
 
 ###
 
