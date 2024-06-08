@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Menna allah Saeed</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
 
-<img align="right" width='500' src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4283b367578677.5b3e5c21edefc.gif" />
+<img align="right" width='450' src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4283b367578677.5b3e5c21edefc.gif" />
 
 - 🌱 I’m currently learning **Laravel, OpenCV, Pytorch, Power BI**
 
