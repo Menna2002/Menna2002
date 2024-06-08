@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Menna allah Saeed</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
 
-<img align="right" width='400' src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4283b367578677.5b3e5c21edefc.gif" />
+<img align="right" width='500' src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4283b367578677.5b3e5c21edefc.gif" />
 
 - 🌱 I’m currently learning **Laravel, OpenCV, Pytorch, Power BI**
 
@@ -21,23 +21,29 @@
 [<img src="https://skillicons.dev/icons?i=laravel" alt="Laravel logo" height="30">](https://laravel.com/)
 [<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL logo" height="30">](https://www.mysql.com/)
 [<img src="https://skillicons.dev/icons?i=py" alt="Python logo" height="30">](https://www.python.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter logo" height="30">](https://jupyter.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="30">](https://scikit-learn.org/stable/index.html)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"/>](https://pandas.pydata.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"/>](https://numpy.org/)
+[<img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"/>](https://pytorch.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"/>](https://opencv.org/)
 [<img src="https://skillicons.dev/icons?i=r" alt="R logo" height="30">](https://www.r-project.org/)
 [<img src="https://skillicons.dev/icons?i=java" alt="Java logo" height="30">](https://www.java.com/en/)
 [<img src="https://skillicons.dev/icons?i=processing" alt="Processing logo" height="30">](https://processing.org/)
 [<img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" height="30">](https://github.com/Menna2002)
 [<img src="https://skillicons.dev/icons?i=git" alt="Git logo" height="30">](https://git-scm.com/)
-[<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code logo" height="30">](https://code.visualstudio.com/)
 [<img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell logo" height="30">](https://powershell.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" alt="Minitab logo" height="30">](https://www.minitab.com/en-us/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda logo" height="30">](https://www.anaconda.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter logo" height="30">](https://jupyter.org/)
+[<img src="https://it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/rapidminer_icon.png?itok=3h2OLfxw" height="30">](https://academy.rapidminer.com/)
+[<img src="https://img.icons8.com/?size=256&id=Ny0t2MYrJ70p&format=png" height="30">](https://app.powerbi.com/home)
+[<img src="https://img.icons8.com/?size=256&id=9Kvi1p1F0tUo&format=png" height="30">](https://www.tableau.com/)
 
 ### 📫 Social :
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30">](https://linkedin.com/in/menna2002) 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30">](https://kaggle.com/mennaallahsaed) 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30">](https://fb.com/100010387547953) 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30">](https://instagram.com/mennasaed111)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30">](https://twitter.com/mennasaed111) 
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30">](https://linkedin.com/in/menna2002) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="30">](https://kaggle.com/mennaallahsaed) 
+[<img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="30">](https://fb.com/100010387547953) 
+[<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30">](https://instagram.com/mennasaed111)
+[<img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30">](https://twitter.com/mennasaed111) 
 
 ###
 <p align="left">
