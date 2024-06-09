@@ -3,13 +3,11 @@
 
 <img align="right" width='400' src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4283b367578677.5b3e5c21edefc.gif" />
 
-- 🌱 I’m currently learning **Laravel, Angular, Deep learning**
+- 🌱 I’m currently learning **Laravel, Angular, Deep learning, BI**
 
 - ✉ **How to reach me:** mennasaed111@gmail.com
 
 - 📄 **Know about my experiences:** [CV](https://drive.google.com/file/d/1R2xhPMuaygVkCJHVCuXfgeHICyQ5o6g8/view)
-
-###
 
 ### 📈 Languages and Tools:
 [<img src="https://skillicons.dev/icons?i=html" alt="HTML5 logo" height="30">](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -28,8 +26,8 @@
 [<img src="https://yt3.ggpht.com/--wrzWlUr7oY/AAAAAAAAAAI/AAAAAAAAAAA/laVCgsWCIIQ/s900-c-k-no/photo.jpg" height="30">](https://plotly.com/python/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"/>](https://numpy.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="30">](https://scikit-learn.org/stable/index.html)
-[<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="30">](https://www.tensorflow.org/)
-[<img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"/>](https://pytorch.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" height="30">](https://www.tensorflow.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"/>](https://pytorch.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"/>](https://opencv.org/)
 [<img src="https://skillicons.dev/icons?i=r" alt="R logo" height="30">](https://www.r-project.org/)
 [<img src="https://skillicons.dev/icons?i=java" alt="Java logo" height="30">](https://www.java.com/en/)
