@@ -56,8 +56,8 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Menna2002&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&card_width=400" height="250" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menna2002&theme=dracula&hide_border&card_width=100&langs_count=3" height="250" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=Menna2002&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&card_width=390" height="250" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menna2002&theme=dracula&hide_border&langs_count=3" height="250" alt="languages graph" />
 </div>
 
 ###
