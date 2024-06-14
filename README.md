@@ -48,7 +48,7 @@
 [<img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30">](https://twitter.com/mennasaed111) 
 
 ###
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/menna2002" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
