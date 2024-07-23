@@ -3,7 +3,7 @@
 
 <img align="right" width='400' src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4283b367578677.5b3e5c21edefc.gif" />
 
-- 🌱 I’m currently learning **Laravel, Angular, Deep learning, BI**
+- 🌱 I’m currently learning **Deep learning, Robotics, IOT**
 
 - ✉ **How to reach me:** mennasaed111@gmail.com
 
@@ -16,7 +16,6 @@
 [<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap logo" height="30">](https://getbootstrap.com/) 
 [<img src="https://skillicons.dev/icons?i=angular" alt="Angular logo" height="30">](https://angular.dev/)
 [<img src="https://skillicons.dev/icons?i=php" alt="PHP logo" height="30">](https://www.php.net/) 
-[<img src="https://skillicons.dev/icons?i=laravel" alt="Laravel logo" height="30">](https://laravel.com/)
 [<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL logo" height="30">](https://www.mysql.com/)
 [<img src="https://skillicons.dev/icons?i=py" alt="Python logo" height="30">](https://www.python.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter logo" height="30">](https://jupyter.org/)
@@ -33,8 +32,7 @@
 [<img src="https://skillicons.dev/icons?i=processing" alt="Processing logo" height="30">](https://processing.org/)
 [<img src="https://skillicons.dev/icons?i=git" alt="Git logo" height="30">](https://git-scm.com/)
 [<img src="https://it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/rapidminer_icon.png?itok=3h2OLfxw" height="30">](https://academy.rapidminer.com/)
-[<img src="https://img.icons8.com/?size=256&id=Ny0t2MYrJ70p&format=png" height="30">](https://app.powerbi.com/home)
-[<img src="https://img.icons8.com/?size=256&id=9Kvi1p1F0tUo&format=png" height="30">](https://www.tableau.com/)
+[<img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"/>](https://www.arduino.cc/)
 
 ### 📫 Social :
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30">](https://linkedin.com/in/menna2002) 
