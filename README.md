@@ -25,8 +25,6 @@
 [<img src="https://yt3.ggpht.com/--wrzWlUr7oY/AAAAAAAAAAI/AAAAAAAAAAA/laVCgsWCIIQ/s900-c-k-no/photo.jpg" height="30">](https://plotly.com/python/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="30">](https://scikit-learn.org/stable/index.html)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" height="30">](https://www.tensorflow.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"/>](https://pytorch.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"/>](https://opencv.org/)
 [<img src="https://skillicons.dev/icons?i=r" alt="R logo" height="30">](https://www.r-project.org/)
 [<img src="https://skillicons.dev/icons?i=java" alt="Java logo" height="30">](https://www.java.com/en/)
 [<img src="https://skillicons.dev/icons?i=processing" alt="Processing logo" height="30">](https://processing.org/)
