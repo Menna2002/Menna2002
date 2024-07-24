@@ -31,6 +31,7 @@
 [<img src="https://skillicons.dev/icons?i=git" alt="Git logo" height="30">](https://git-scm.com/)
 [<img src="https://it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/rapidminer_icon.png?itok=3h2OLfxw" height="30">](https://academy.rapidminer.com/)
 [<img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"/>](https://www.arduino.cc/)
+[<img src="https://play-lh.googleusercontent.com/OeoH3mIwczf_JhX_b9WMR4383Gmw3t0BMEV292UKz4Bmm1DrmWEiQWVkSy5MF4G6vjx7" height="30" alt="mot logo"/>](https://learning.masterofthings.com)
 
 ### 📫 Social :
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30">](https://linkedin.com/in/menna2002) 
