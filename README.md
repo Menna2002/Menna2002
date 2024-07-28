@@ -7,8 +7,6 @@
 
 - ✉ **How to reach me:** mennasaed111@gmail.com
 
-- 📄 **Know about my experiences:** [CV](https://drive.google.com/file/d/1R2xhPMuaygVkCJHVCuXfgeHICyQ5o6g8/view)
-
 ### 📈 Languages and Tools:
 [<img src="https://skillicons.dev/icons?i=html" alt="HTML5 logo" height="30">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://skillicons.dev/icons?i=css" alt="CSS3 logo" height="30">](https://developer.mozilla.org/en-US/docs/Web/css)
