@@ -16,7 +16,6 @@
 [<img src="https://skillicons.dev/icons?i=php" alt="PHP logo" height="30">](https://www.php.net/) 
 [<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL logo" height="30">](https://www.mysql.com/)
 [<img src="https://skillicons.dev/icons?i=py" alt="Python logo" height="30">](https://www.python.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter logo" height="30">](https://jupyter.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"/>](https://pandas.pydata.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"/>](https://numpy.org/)
 [<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="30">](https://seaborn.pydata.org/)
