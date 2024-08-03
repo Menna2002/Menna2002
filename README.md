@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Menna allah Saeed</h1>
-<h3 align="center">Junior Machine Learning Engineer</h3>
+<h3 align="center">Data Science Student</h3>
 
 <img align="right" width='400' src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4283b367578677.5b3e5c21edefc.gif" />
 
