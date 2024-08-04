@@ -23,11 +23,11 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" height="30">](https://www.tensorflow.org/)
 [<img src="https://skillicons.dev/icons?i=r" alt="R logo" height="30">](https://www.r-project.org/)
 [<img src="https://skillicons.dev/icons?i=java" alt="Java logo" height="30">](https://www.java.com/en/)
-[<img src="https://skillicons.dev/icons?i=c" alt="c logo" height="30">](https://www.learn-c.org/)
 [<img src="https://skillicons.dev/icons?i=processing" alt="Processing logo" height="30">](https://processing.org/)
 [<img src="https://skillicons.dev/icons?i=git" alt="Git logo" height="30">](https://git-scm.com/)
 [<img src="https://it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/rapidminer_icon.png?itok=3h2OLfxw" height="30">](https://academy.rapidminer.com/)
 [<img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"/>](https://www.arduino.cc/)
+[<img src="https://skillicons.dev/icons?i=c" alt="c logo" height="30">](https://www.learn-c.org/)
 [<img src="https://play-lh.googleusercontent.com/OeoH3mIwczf_JhX_b9WMR4383Gmw3t0BMEV292UKz4Bmm1DrmWEiQWVkSy5MF4G6vjx7" height="30" alt="mot logo"/>](https://learning.masterofthings.com)
 
 ### 📫 Social :
